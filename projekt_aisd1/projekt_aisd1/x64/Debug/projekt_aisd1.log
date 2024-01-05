@@ -1,0 +1,6 @@
+﻿  projekt_aisd1.cpp
+C:\Users\olekksander\source\repos\projekt_aisd1\projekt_aisd1\projekt_aisd1.cpp(17,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\olekksander\source\repos\projekt_aisd1\projekt_aisd1\projekt_aisd1.cpp(33,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\olekksander\source\repos\projekt_aisd1\projekt_aisd1\projekt_aisd1.cpp(47,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\olekksander\source\repos\projekt_aisd1\projekt_aisd1\projekt_aisd1.cpp(66,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  projekt_aisd1.vcxproj -> C:\Users\olekksander\source\repos\projekt_aisd1\x64\Debug\projekt_aisd1.exe
